@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(75, 74, 74);
+}
+.card{
+    background-color: aliceblue;
+    width: 400px;
+    height: 550px;
+    margin: 50px 40%;
+}
+
+.a{
+border: 1px solid #ff0000;
+margin: 10px 20%;
+}
+
+.s{
+border: 1px solid #000;
+margin: 0px 10%;
+}
